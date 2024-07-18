@@ -33,7 +33,7 @@ This is a simple CRUD (Create, Read, Update, Delete) API built using Spring Boot
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/spring-boot-student-api.git
+    git clone https://github.com/Atharva1479/spring-boot-student-api.git
     cd spring-boot-student-api
     ```
 
